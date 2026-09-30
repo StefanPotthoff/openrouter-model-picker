@@ -1,0 +1,14 @@
+# Build-Ausgaben
+bin/
+obj/
+dist/
+wwwroot/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# IDE / lokale Einstellungen
+.vs/
+.idea/
+*.user
